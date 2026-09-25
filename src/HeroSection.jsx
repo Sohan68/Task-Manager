@@ -8,9 +8,9 @@ const HeroSection = () => {
               <img
                 className="max-md:w-full"
                 src="/public/assets/frame.png"
+                alt="Taskframe"
                 width="326"
                 height="290"
-                alt="frame"
               />
             </div>
             <div>
