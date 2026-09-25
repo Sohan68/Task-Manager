@@ -7,7 +7,7 @@ const HeroSection = () => {
             <div className="flex justify-center md:order-2">
               <img
                 className="max-md:w-full"
-                src="/public/assets/frame.png"
+                src="/assets/frame.png"
                 alt="Taskframe"
                 width="326"
                 height="290"
