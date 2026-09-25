@@ -1,9 +1,9 @@
 const HeroSection = () => {
   return (
     <>
-      <section className="pb-28.5 pt-20 md:mt-25">
-        <div className="container lg:px-20">
-          <div className="grid items-center gap-6 md:grid-cols-2">
+      <section className="pb-8 pt-2 md:mt-0">
+        <div className="container lg:px-60  mx-auto">
+          <div className="grid items-center gap-6 md:gap-96 md:grid-cols-2">
             <div className="flex justify-center md:order-2">
               <img
                 className="max-md:w-full"
